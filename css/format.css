@@ -1,6 +1,6 @@
 #typeDiv {
 	position: absolute;
-	top: 55%;
+	top: 50%;
 	left: 0;
 	right: 0;
 	margin: auto;
@@ -103,7 +103,7 @@
 
 #imgTxt{
 	position: absolute;
-	top: 30%;
+	top: 25%;
 	left: 0;
 	right: 0;
 	margin: auto;
