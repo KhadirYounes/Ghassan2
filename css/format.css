@@ -139,12 +139,3 @@
 	color: white;
 }
 
-/* For screens smaller than 600px (typical phone screens) */
-@media (max-width: 600px) {
-    #together {
-        font-size: 18px;  /* smaller title */
-    }
-    #d, #h, #m, #s {
-        font-size: 14px;  /* smaller timer numbers */
-    }
-}
